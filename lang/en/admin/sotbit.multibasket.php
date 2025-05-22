@@ -1,0 +1,25 @@
+<?php
+$MESS["SOTBIT_MULTIBASKET_TAB_MAIN"] = "basic settings";
+$MESS["SOTBIT_MULTIBASKET_TAB_STORE"] = "Cart settings";
+$MESS["SOTBIT_MULTIBASKET_TAB_TITLE"] = "Ratio of warehouses to baskets";
+$MESS["SOTBIT_MULTIBASKET_MODULE_ENABLED"] = "Enable the module for the site:";
+$MESS["SOTBIT_MULTIBASKET_DELET_NON_USERS_BASKETS"] = "Delete abandoned carts of unregistered users:";
+$MESS["SOTBIT_MULTIBASKET_DELET_NON_USERS_BASKETS_TIME"] = "The cart is considered abandoned if it has not been updated for 24 hours:";
+$MESS["SOTBIT_MULTIBASKET_DELET_USERS_BASKETS"] = "Delete abandoned carts of registered users:";
+$MESS["SOTBIT_MULTIBASKET_DELET_USERS_BASKETS_TIME"] = "A registered user's shopping cart is considered abandoned if it has not been updated for 24 hours:";
+$MESS["SOTBIT_MULTIBASKET_SAVE_SATTIONGS"] = "Save";
+$MESS["SOTBIT_MULTIBASKET_TITLE_SETTINGS"] = "Multi-cart settings";
+$MESS["SOTBIT_MULTIBASKET_MODULE_MODE_WORK"] = "Module operating mode:";
+$MESS["SOTBIT_MULTIBASKET_MODULE_MODE_WORK_NOTE"] = "<b>Standard mode:</b> users manage their carts themselves and can add and move any products.<br> <b>Mode for linking a basket to a warehouse:</b> the administrator creates a limited set of baskets, where a warehouse is associated with each basket. Users can only add products that are in the warehouse associated with the cart.<br> When changing the operating mode, all user baskets will be overwritten.";
+$MESS['SOTBIT_MULTIBASKET_SPECIFY_BASKETS'] = 'Specify in the request the code from which it is registered:';
+$MESS['SOTBIT_MULTIBASKET_SPECIFY_ORDER_PROPERTY'] = 'The reason for writing the data:';
+$MESS["SOTBIT_MULTIBASKET_MODULE_RATIO_SECTION"] = "Correlation of baskets with warehouses";
+$MESS["SOTBIT_MULTIBASKET_MODULE_RATIO_SECTION_STORE_ERROR"] = "There are no warehouses available for this site.";
+$MESS["SOTBIT_MULTIBASKET_MODULE_RATIO_BASKET_NUMBER"] = "Basket ";
+$MESS["SOTBIT_MULTIBASKET_MODULE_RATIO_ADD"] = "Add";
+$MESS["SOTBIT_MULTIBASKET_MODULE_RATIO_DEL"] = "Delete";
+$MESS["SOTBIT_MULTIBASKET_DELETE_WARNING"] = "Cannot delete all relationships";
+$MESS["SOTBIT_MULTIBASKET_ADD_WARNING"] = "Maximum number of baskets added - ";
+$MESS["SOTBIT_MULTIBASKET_MODULE_RATIO_HINT"] = " Select the warehouses for which you want to create carts. One warehouse - one basket.";
+$MESS["SOTBIT_MULTIBASKET_ERROR_REQ_FIELDS_RATIO"] = "No warehouses have been selected for the ratio.";
+$MESS["SOTBIT_MULTIBASKET_SETTINGS_MODULE_SAVE_OK"] = "settings have been saved";

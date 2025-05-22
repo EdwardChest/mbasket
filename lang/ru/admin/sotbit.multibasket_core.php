@@ -1,0 +1,6 @@
+<?php
+$MESS['SOTBIT_MULTIBASKET_TAB_MAIN'] = 'Основные настройки';
+$MESS['SOTBIT_MULTIBASKET_SAVE_SATTIONGS'] = 'Сохранить';
+$MESS['SOTBIT_MULTIBASKET_SETTINGS_MODULE_SAVE_OK'] = 'Настройки сохранены';
+$MESS['SOTBIT_MULTIBASKET_MAIN_BASKET'] = 'Корзина по умолчанию:';
+$MESS['SOTBIT_MULTIBASKET_COLORS_BASKET'] = 'Цвета корзин:';

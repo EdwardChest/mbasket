@@ -1,0 +1,2 @@
+<?php
+$MESS["SOTBIT_MULTIBASKET_NAME"] = "Warehouse #STORE#";
